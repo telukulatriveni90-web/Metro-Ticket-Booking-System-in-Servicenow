@@ -3,4 +3,4 @@ Metro Ticket Booking System is a digital ticketing application developed on Serv
 
 
 
-video link:https://drive.google.com/file/d/18YF6FCqcWu_bHeF1pLCQD0W2TRQL78o2/view?usp=drivesdk
+Demo video link:https://drive.google.com/file/d/18YF6FCqcWu_bHeF1pLCQD0W2TRQL78o2/view?usp=drivesdk
